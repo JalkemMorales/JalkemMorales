@@ -74,9 +74,9 @@
     <td width="50%" valign="top">
       <br>
       <img src="https://img.shields.io/badge/📱_Mobile_App-1E1E1E?style=flat-square" /><br><br>
-      <b><a href="https://dragoncat.dev/">Catnip</a></b><br><br>
+      <b><a href="https://dragoncat.dev/catnip">Catnip</a></b><br><br>
       <i>Flutter / Native Android</i><br><br>
-      <b>Local-first</b> architecture. High-performance application.<br><br><i>Coming soon to Google Play.</i>
+      <b>Local-first</b> architecture. High-performance application.<br><br><a href="https://play.google.com/store/apps/details?id=com.dragoncatdev.catnip"><i>Available now on Google Play</i></a>
     </td>
     <td width="50%" valign="top">
       <br>
